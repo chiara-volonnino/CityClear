@@ -55,7 +55,7 @@ For deploy run:
 ## Presentation and documentation
 
 - [A brief presentation in Italian language](presentation.pdf)  
-- [A complete API documentation, concerning the available REST calls](report.pdf)  
+- [A complete API documentation, concerning the available REST calls](https://app.swaggerhub.com/apis/chiara.volonnino/city-clear/1.0.0)  
 
 ## Team members
 Chiara Volonnino (chiara.volonnino@studio.unibo.it)  
